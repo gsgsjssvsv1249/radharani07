@@ -9,7 +9,7 @@ from telethon.tl.types import UserStatusOnline, UserStatusOffline
 # Credentials (set these as environment variables in hosting service)
 API_ID = int(os.getenv("37175018"))
 API_HASH = os.getenv("21c5865c2f3145f4246716dd007805f4")
-BOT_TOKEN = os.getenv("8550561687:AAE0feljSj0AO2bmqgiC5NZHr8Od4eWUGps")
+BOT_TOKEN = os.getenv("8048701301:AAGIArYnADqy8vi7ZpvAJ23W7KBu7oqkOso")
 OWNER_ID = int(os.getenv("6075690916"))  # your Telegram numeric ID
 
 DATA_FILE = 'user_status.json'
